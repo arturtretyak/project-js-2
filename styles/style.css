@@ -1,0 +1,14 @@
+.img-event {
+  width: 300px;
+  max-height: 300px;
+}
+
+.list-of-events {
+  /* display: flex;
+  gap: 20px;
+  flex-wrap: wrap; */
+}
+
+.hidden {
+  display: none;
+}
